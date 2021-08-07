@@ -12,3 +12,26 @@ There are 5 types of buildings, with 8 copies of each:
 - House (HSE): If it is next to a factory (FAC), then it scores 1 point only. Otherwise, it scores 1 point for each adjacent house (HSE) or shop (SHP), and 2 points for each adjacent beach (BCH).
 - Shop (SHP): Scores 1 point per different type of building adjacent to it.
 - Highway (HWY): Scores 1 point per connected highway (HWY) in the same row.
+
+Example:
+```
+Turn 1
+     A     B     C     D  
+  +-----+-----+-----+-----+
+ 1|     |     |     |     |
+  +-----+-----+-----+-----+
+ 2|     |     |     |     |
+  +-----+-----+-----+-----+
+ 3|     |     |     |     |
+  +-----+-----+-----+-----+
+ 4|     |     |     |     |
+  +-----+-----+-----+-----+
+1. Build a HSE
+2. Build a BCH
+3. See remaining buildings
+4. See current score
+
+5. Save game
+0. Exit to main menu
+Your choice? 
+```
