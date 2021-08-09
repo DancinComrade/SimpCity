@@ -1,6 +1,6 @@
 # SimpCity
 
-## [Ngee Ann Polytechnic](https://www.np.edu.sg/) - CSF Year 1 - PRG Assignment
+**[Ngee Ann Polytechnic](https://www.np.edu.sg/) - CSF Year 1 - PRG Assignment**
 
 You are the mayor of Simp City, and you want to build the happiest and most prosperous city possible, i.e., score the most points.
 
