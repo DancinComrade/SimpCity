@@ -1,5 +1,7 @@
 # SimpCity
 
+## [Ngee Ann Polytechnic](https://www.np.edu.sg/) - CSF Year 1 - PRG Assignment
+
 You are the mayor of Simp City, and you want to build the happiest and most prosperous city possible, i.e., score the most points.
 
 This city-building strategy game is played over 16 turns. In each turn, you will build one of two randomly-selected buildings in your 4x4 city. In the first turn, you can build anywhere in the city. In subsequent turns, you can only build on squares that are connected to existing buildings. The other building that you did not build is discarded.
