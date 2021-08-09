@@ -2,8 +2,6 @@ import csv
 import random
 
 """
-Tan Kai Zhe - P06 - 9/8/2021
-
 Advanced:
 - Finished Program Validation
 - Finished High Scores
