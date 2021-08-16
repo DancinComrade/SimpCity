@@ -168,4 +168,4 @@ BCH: 3 + 3 + 3 = 9
 Total score: 50
 ```
 
-Credits: Original documentation made by Ngee Ann Polytechnic
+Credits: Original documentation made by Ngee Ann Polytechnic's School of ICT
