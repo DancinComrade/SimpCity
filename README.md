@@ -167,5 +167,4 @@ HWY: 4 + 4 + 4 + 4 = 16
 BCH: 3 + 3 + 3 = 9
 Total score: 50
 ```
-
-Credits: Original documentation made by Ngee Ann Polytechnic's School of ICT
+Disclaimer: The requirements as well as the documentation for the program Simp City are not authored by me, but by Ngee Ann Polytechnic's School of ICT. Only the spaghetti code that I've included in this repo for future reference is coded by my ownself.
